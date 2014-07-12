@@ -1,4 +1,1 @@
-ICraftGames
-===========
-
 ICraftGames Site
